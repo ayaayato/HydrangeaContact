@@ -13,4 +13,6 @@
 
 Route::get('/', 'ContactController@index')->name('contact.index');
 
+Route::post('/confirm', 'ContactController@confirm')->name('contact.confirm');
 
+Route::post('/thanks', 'ContactController@sent')->name('contact.sent');

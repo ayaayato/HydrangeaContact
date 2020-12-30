@@ -1,8 +1,12 @@
+@extends('layout.common')
+
+@section('content')
+
 <div class="contact-form">
       <h1 class="form-title">お問い合わせ</h1>
       <br>
 
-      <form method="post" action="">
+      <form method="post" action="{{ route('contact.confirm') }}">
       @csrf
         <div class="form-item">
         <h4>メールアドレス （必須）</h4>
@@ -37,3 +41,5 @@
       </div>
       </form>
     </div>
+
+@endsection
