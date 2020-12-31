@@ -17,7 +17,7 @@
         <div class="form-item">
         <h4>お問い合わせの種類 （必須）</h4>
         <?php 
-          $types = array('Hydrangeaに関するお問い合わせ', 'ご意見、ご要望', 'エラー、バグの報告', '不適切な投稿の報告', '開発者へのご相談、ご依頼', 'その他');
+          $types = array('Hydrangeaに関するお問い合わせ', 'ご意見・ご要望', 'エラー・バグの報告', '不適切な投稿の報告', '開発者へのご相談・ご依頼', 'その他');
          ?>
 
         <select class="inputs" name="category">
