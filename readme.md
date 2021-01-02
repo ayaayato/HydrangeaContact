@@ -2,7 +2,7 @@
 - HydrangeaContact
 
 ## アプリケーション概要
-- Hydrangea（https://hydrangea1008.herokuapp.com/）に関してのお問い合わせフォーム
+- Hydrangea（ https://hydrangea1008.herokuapp.com/ ）に関してのお問い合わせフォーム
 
 ## URL
 - http://hydrangeacontact.herokuapp.com/
