@@ -28,7 +28,7 @@
 ## ローカル動作環境
 - PHP 7.1.33
 - Laravel Framework 5.8.38
-cloneする場合はご自身のメールサーバーに合わせた環境変数を設定後ご利用ください
+- cloneする場合はご自身のメールサーバーに合わせた環境変数を設定後ご利用ください
 
 ## 受信したメールの画像(Gmail)
 <img width="545" alt="0fafbede22b0a2817342047a488312e7" src="https://user-images.githubusercontent.com/73512438/103468812-91229180-4da0-11eb-88f5-8536ef18a72d.png">
