@@ -2,8 +2,8 @@
 アドレス:{{ $email }}
 </p>
 <p>
-件名：{{ $category }}
+種類：{{ $category }}
 </p>
 <p>
-メッセージ：{{ $body }}
+内容：{{ $body }}
 </p>

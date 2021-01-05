@@ -29,13 +29,14 @@ class Contact extends Mailable
      */
     public function build()
     {
-        return $this->subject('【問い合わせ】'.$this->contact['category'])
+        return $this->subject('【受付完了】'.$this->contact['category'])
         ->view('contact.mail')
         ->with([
             'email' => $this->contact['email'],
             'category' => $this->contact['category'],
             'body'  => $this->contact['body'],
-        ]);
+        ])
+        ->to($this->contact['email']);
         
     }
 }
