@@ -29,6 +29,7 @@
 - cloneする場合はご自身のメールサーバーに合わせた環境変数を設定後ご利用ください
 
 ## 受信したメールの画像
-<img width="545" alt="0fafbede22b0a2817342047a488312e7" src="https://user-images.githubusercontent.com/73512438/103468812-91229180-4da0-11eb-88f5-8536ef18a72d.png">
-- 開発者
--　送信者
+<img width="1436" alt="d3beea1b01e725b839563079f406950b" src="https://user-images.githubusercontent.com/73512438/103707939-ec4bc280-4ff2-11eb-9e8d-abc80e18b841.png">
+
+## 受信したメールの画像
+<img width="1439" alt="14c371cb5f4d7fc3931f81c272692862" src="https://user-images.githubusercontent.com/73512438/103708036-1604e980-4ff3-11eb-88bb-57c2310b9533.png">
