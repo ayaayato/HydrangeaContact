@@ -19,9 +19,11 @@
 - 情報入力後、送信
 <img width="1440" alt="079d2d6e56fe67e512fa75e94599e779" src="https://user-images.githubusercontent.com/73512438/103708677-5d3faa00-4ff4-11eb-8b9e-5911534cf45d.png">
 <br>
+
 - 確認画面へ
 <img width="1440" alt="9b5ef63414d8e5a7ecf40d4e64ed1c18" src="https://user-images.githubusercontent.com/73512438/103708762-8ceeb200-4ff4-11eb-8da9-f200605eca73.png">
 <br>
+
 - 送信完了
 <img width="1426" alt="e6b3e5ab1c47488667b725c2dc1142ed" src="https://user-images.githubusercontent.com/73512438/103708817-a5f76300-4ff4-11eb-86de-2e777da200ec.png">
 <br>
@@ -38,5 +40,6 @@
 ## 受信したメールの画像（ユーザー）
 <img width="1436" alt="d3beea1b01e725b839563079f406950b" src="https://user-images.githubusercontent.com/73512438/103707939-ec4bc280-4ff2-11eb-9e8d-abc80e18b841.png">
 <br>
+
 ## 受信したメールの画像（開発者）
 <img width="1439" alt="14c371cb5f4d7fc3931f81c272692862" src="https://user-images.githubusercontent.com/73512438/103708036-1604e980-4ff3-11eb-88bb-57c2310b9533.png">
