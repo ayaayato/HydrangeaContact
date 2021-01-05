@@ -89,3 +89,11 @@ img:hover{
 .text-body{
   width: 400px;
 }
+
+.email-inp{
+  width: 250px;
+}
+
+.danger{
+  color: rgb(255, 116, 144);
+}
